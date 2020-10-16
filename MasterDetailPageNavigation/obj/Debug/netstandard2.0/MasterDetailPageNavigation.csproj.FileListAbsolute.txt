@@ -1,0 +1,16 @@
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\bin\Debug\netstandard2.0\MasterDetailPageNavigation.deps.json
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\bin\Debug\netstandard2.0\MasterDetailPageNavigation.dll
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\bin\Debug\netstandard2.0\MasterDetailPageNavigation.pdb
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\MasterDetailPageNavigation.csprojAssemblyReference.cache
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\XAML\ContactsPage.xaml.g.cs
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\XAML\MainPage.xaml.g.cs
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\XAML\MasterPage.xaml.g.cs
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\XAML\ReminderPage.xaml.g.cs
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\XAML\TodoListPage.xaml.g.cs
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\MasterDetailPageNavigation.AssemblyInfoInputs.cache
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\MasterDetailPageNavigation.AssemblyInfo.cs
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\MasterDetailPageNavigation.csproj.CoreCompileInputs.cache
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\MasterDetailPageNavigation.dll
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\MasterDetailPageNavigation.pdb
+C:\Users\Kener\Documents\GEOPARQUE\MasterDetailPageNavigation\obj\Debug\netstandard2.0\XAML\Page1.xaml.g.cs

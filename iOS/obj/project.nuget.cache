@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQXee1Dw77I7KzunqNiffomNfOy6g3M1os6R3K8Bdt6LEZDP3dcxTjA1N2+L+Jr3s16fVgqP3X2RX7bY19Mvtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kener\\Documents\\GEOPARQUE\\iOS\\MasterDetailPageNavigation.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kener\\.nuget\\packages\\xamarin.forms\\4.8.0.1269\\xamarin.forms.4.8.0.1269.nupkg.sha512"
+  ],
+  "logs": []
+}
